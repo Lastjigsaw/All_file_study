@@ -1,0 +1,7 @@
+rad = float(input("Radius: "))
+square = (rad + rad) * (rad + rad)
+circle = 3.1416 * (rad ** 2)
+shaded = (square - circle)
+print("Square area is %.2f." % square)
+print("Circle area is %.2f." % circle)
+print("Shaded area is %.2f." % shaded)
