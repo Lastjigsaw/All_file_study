@@ -1,0 +1,6 @@
+print("Display 4 cards")
+print("Spead A, Heart 10, Daimon J and Club 9")
+print("A\u2660")
+print("10\u2665")
+print("J\u2666")
+print("9\u2663")

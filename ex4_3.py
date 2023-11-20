@@ -1,0 +1,7 @@
+print("Using function ord()")
+print(ord('S'))
+print(ord('U'))
+print(ord('T'))
+print("Using function chr()")
+print(chr(9826))
+print(chr(9825))
