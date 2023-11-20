@@ -1,0 +1,8 @@
+num = int(input("Enter a number (1000-9999): "))
+numtostr = str(num)
+num1 = int(numtostr[0])
+num2 = int(numtostr[1])
+num3 = int(numtostr[2])
+num4 = int(numtostr[3])
+print("You entered number %d" % num)
+print("Number %d is sparated to be %d, %d, %d and %d." % (num, num1, num2, num3, num4))
